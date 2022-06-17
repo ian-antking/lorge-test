@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostContent renders consistently 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bczRLJ giNOlw"
+  >
+    <div
+      class="sc-gsnTZi bXFjmF"
+    >
+      <h1>
+        title
+      </h1>
+      
+
+      <p>
+        this is some content
+      </p>
+      
+
+      <h2>
+        subtitle
+      </h2>
+      
+
+      <ul>
+        
+
+        <li>
+          ul item 1
+        </li>
+        
+
+        <li>
+          ul item 2
+        </li>
+        
+
+      </ul>
+      
+
+      <ol>
+        
+
+        <li>
+          ol item 1
+        </li>
+        
+
+        <li>
+          ol item 2
+        </li>
+        
+
+      </ol>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostCard renders consistently 1`] = `
+<DocumentFragment>
+  <a
+    class="sc-bczRLJ eyjeUM"
+    href="/post/id"
+  >
+    <div
+      class="sc-gsnTZi cznRGl"
+    >
+      <div
+        class="sc-hKMtZM hNxTqh"
+      >
+        <span>
+          14th June 2022
+        </span>
+      </div>
+      <div
+        class="sc-dkzDqf jGIDpV"
+      >
+        <span>
+          titleText
+        </span>
+      </div>
+      <div
+        class="sc-eCYdqJ eTHGuY"
+      >
+        blurbText
+      </div>
+      <div
+        class="sc-jSMfEi jNHCZO"
+      >
+        <span>
+          authorText
+        </span>
+      </div>
+    </div>
+  </a>
+</DocumentFragment>
+`;

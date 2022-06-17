@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostCards renders consistently 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gKXOVf deyyRI"
+  >
+    <a
+      class="sc-bczRLJ eyjeUM"
+      href="/post/id1"
+    >
+      <div
+        class="sc-gsnTZi cznRGl"
+      >
+        <div
+          class="sc-hKMtZM hNxTqh"
+        >
+          <span>
+            18th April 2022
+          </span>
+        </div>
+        <div
+          class="sc-dkzDqf jGIDpV"
+        >
+          <span>
+            title1
+          </span>
+        </div>
+        <div
+          class="sc-eCYdqJ eTHGuY"
+        >
+          blurbText1
+        </div>
+        <div
+          class="sc-jSMfEi jNHCZO"
+        >
+          <span>
+            authorText1
+          </span>
+        </div>
+      </div>
+    </a>
+    <a
+      class="sc-bczRLJ eyjeUM"
+      href="/post/id2"
+    >
+      <div
+        class="sc-gsnTZi cznRGl"
+      >
+        <div
+          class="sc-hKMtZM hNxTqh"
+        >
+          <span>
+            18th April 2022
+          </span>
+        </div>
+        <div
+          class="sc-dkzDqf jGIDpV"
+        >
+          <span>
+            title2
+          </span>
+        </div>
+        <div
+          class="sc-eCYdqJ eTHGuY"
+        >
+          blurbText2
+        </div>
+        <div
+          class="sc-jSMfEi jNHCZO"
+        >
+          <span>
+            authorText2
+          </span>
+        </div>
+      </div>
+    </a>
+  </div>
+</DocumentFragment>
+`;

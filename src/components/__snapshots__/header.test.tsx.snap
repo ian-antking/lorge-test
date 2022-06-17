@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders consistently 1`] = `
+<DocumentFragment>
+  <header
+    class="sc-gsnTZi kWdnON"
+  >
+    <a
+      class="sc-bczRLJ gXuhJw"
+      href="/"
+    >
+      lörge
+    </a>
+  </header>
+</DocumentFragment>
+`;
