@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/lorge-test/static/js/main.9ec0d92d.js",
+    "main.js": "/lorge-test/static/js/main.ef82fac8.js",
     "react-syntax-highlighter/lowlight-import.js": "/lorge-test/static/js/react-syntax-highlighter/lowlight-import.a18f148f.chunk.js",
     "react-syntax-highlighter_languages_highlight_oneC.js": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_oneC.521b4d62.chunk.js",
     "react-syntax-highlighter_languages_highlight_abnf.js": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_abnf.7625391a.chunk.js",
@@ -194,7 +194,7 @@
     "react-syntax-highlighter_languages_highlight_yaml.js": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_yaml.a8a5f4c5.chunk.js",
     "react-syntax-highlighter_languages_highlight_zephir.js": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_zephir.e87ff2dd.chunk.js",
     "index.html": "/lorge-test/index.html",
-    "main.9ec0d92d.js.map": "/lorge-test/static/js/main.9ec0d92d.js.map",
+    "main.ef82fac8.js.map": "/lorge-test/static/js/main.ef82fac8.js.map",
     "lowlight-import.a18f148f.chunk.js.map": "/lorge-test/static/js/react-syntax-highlighter/lowlight-import.a18f148f.chunk.js.map",
     "react-syntax-highlighter_languages_highlight_oneC.521b4d62.chunk.js.map": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_oneC.521b4d62.chunk.js.map",
     "react-syntax-highlighter_languages_highlight_abnf.7625391a.chunk.js.map": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_abnf.7625391a.chunk.js.map",
@@ -389,6 +389,6 @@
     "react-syntax-highlighter_languages_highlight_zephir.e87ff2dd.chunk.js.map": "/lorge-test/static/js/react-syntax-highlighter_languages_highlight_zephir.e87ff2dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ec0d92d.js"
+    "static/js/main.ef82fac8.js"
   ]
 }
