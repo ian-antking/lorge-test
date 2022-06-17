@@ -1,7 +1,7 @@
 {
   "name": "postgrad-typescript-blog-frontend",
+  "homepage": "https://ian-antking.github.io/lorge-test",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@types/jest": "^27.4.1",
     "@types/node": "^16.11.26",
