@@ -7,7 +7,7 @@ interface Post {
 }
 
 export default async (): Promise<Post[]> => {
-  const response = await fetch(`${process.env.REACT_APP_CMS_URL}/posts`)
+  const response = await fetch(`${process.env.REACT_APP_CMS_URL ||' https://lorge.herokuapp.com'}/posts`)
 
   if (response.ok) {
     const payload = await response.json()
